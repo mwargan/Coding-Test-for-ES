@@ -1,0 +1,9 @@
+node_modules
+coverage
+dist
+
+# We add a .env, if we had one
+.env
+
+# Macs like to add .DS_Store files everywhere - we don't want them
+.DS_Store
